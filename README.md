@@ -1,4 +1,9 @@
 # Team Final Project
+## 🚀 프로젝트의 담당 구현 부분 PDF
+[파이널프로젝트_양도.pdf](https://github.com/user-attachments/files/19400570/양도기능.pdf)
+
+ + 양도 기능 구현을 담당했으며, 데이터베이스 설계와 우리 프로젝트를 AWS EC2 배포를 담당하였습니다.
+ + 프로젝트에서 본인이 구현한 부분을 설명한 PDF 자료입니다.
 
 ## 프로그램 소개
 + **Title: 오늘어때**
@@ -42,14 +47,6 @@
 
 + **수요를 예측하여 가격 최적화:**
   + 날씨 데이터와 예약 데이터를 분석해 최적의 가격 전략을 수립할 수 있습니다.
-
- 
-## 🚀 프로젝트의 담당 구현 부분 PDF
-[파이널프로젝트_양도.pdf](https://github.com/user-attachments/files/19400570/양도기능.pdf)
-
- + 양도 기능 구현을 담당했으며, 데이터베이스 설계와 우리 프로젝트를 AWS EC2 배포를 담당하였습니다.
- + 프로젝트에서 본인이 구현한 부분을 설명한 PDF 자료입니다.
-
 
 ## 프로그램 라이브러리
 ### Java <img src="https://cdn-icons-png.flaticon.com/512/226/226777.png" width="auto" height="20" />
